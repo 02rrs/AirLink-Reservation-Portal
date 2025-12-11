@@ -33,10 +33,10 @@ It provides RESTful APIs for booking flights, managing passengers, processing pa
 
 | Category | Technology |
 |---------|------------|
-| Language | Java 17 (or your version) |
+| Language | Java 21 |
 | Framework | Spring Boot |
 | Build Tool | Maven |
-| Database | MySQL |
+| Database | PostgreSQL |
 | ORM | Hibernate / JPA |
 | API Layer | REST Controllers |
 | IDE | IntelliJ / Eclipse / VS Code |
